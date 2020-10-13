@@ -1,7 +1,15 @@
 body {
-    background-color: olive;
+    background-color: orange;
+    
+    box-sizing: border-box;
 }
 
 h1 {
     background-color: hotpink;
+    margin: 0 auto;
+    width: 250px;
+}
+
+p {
+    color: white;
 }
